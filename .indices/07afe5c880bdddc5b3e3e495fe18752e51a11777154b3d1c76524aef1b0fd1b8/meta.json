@@ -1,0 +1,6 @@
+{
+  "pdf_path": "C:\\Users\\Gunjan Kumar\\CODING_LEARNING\\CODING\\AI_ML\\LANGCHAIN\\LANGSMITH\\langsmith-masterclass\\islr.pdf",
+  "chunk_size": 1000,
+  "chunk_overlap": 150,
+  "embedding_model": "text-embedding-3-small"
+}
